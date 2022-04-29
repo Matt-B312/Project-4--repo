@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+<br />
+<div align="center">
+  <a href="https://mattsmemoriesapp.herokuapp.com/posts">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![3d](https://wallpapertag.com/wallpaper/full/8/7/e/221119-travel-background-1920x1080-laptop.jpg)
+</a>
 
-## Available Scripts
+<h1 align="center">Memories App</h1>
 
-In the project directory, you can run:
+    Fourth Project for General Assembly SEI
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## General Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3D Models Site is a 3D model sharing platform that allows creators to easily showcase and share their 3d models with the rest of the users on the site.
+For now we are focusing on GLB files but also plan to have a 3d printing (STL) section.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## About The Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For my fourth project I'm making a Platform for sharing memories.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In this project I got to build and demostrate a full MERN stack app.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3D Models Site was built in one week.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Built With:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- MongoDb atlas
+- React
+- Node.js
+- HTML
+- JavaScript
+- CSS
+- Heroku
+- Mongoose
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Icebox 🧊
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Live chat
+- Accounts page
+- Favorities page
+- Links To Instagram, Facebook, Twitter so share your favorite posts
+- Having more reactions for photo's
+- and hopefully more!!!
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To start simply click the link (https://mattsmemoriesapp.herokuapp.com/auth) and begin browsing with links to all sections at the top of the page.
