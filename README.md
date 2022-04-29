@@ -22,9 +22,13 @@ For now we are focusing on GLB files but also plan to have a 3d printing (STL) s
 
 For my fourth project I'm making a Platform for sharing memories.
 
-In this project I got to build and demostrate a full MERN stack app.
+In this project I got to build and demostrate a full MERN stack app which took me about 6 days to do.
 
-3D Models Site was built in one week.
+
+## Screen Shots
+
+* ![alt text](https://i.imgur.com/xDkAAIC.png)
+* ![alt text](https://i.imgur.com/Rp9oTiu.png)
 
 
 ## Built With:
