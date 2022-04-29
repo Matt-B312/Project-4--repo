@@ -37,6 +37,10 @@ In this project I got to build and demostrate a full MERN stack app.
 - CSS
 - Heroku
 - Mongoose
+- Pageination
+- Google OAuth
+- JWT token based Auth
+- Redux
 
 ## Icebox 🧊
 
@@ -51,4 +55,4 @@ In this project I got to build and demostrate a full MERN stack app.
 ## Getting Started
 
 
-To start simply click the link (https://mattsmemoriesapp.herokuapp.com/auth) and begin browsing with links to all sections at the top of the page.
+To start simply click the link (https://mattsmemoriesapp.herokuapp.com/auth) and begin browsing the pages.
