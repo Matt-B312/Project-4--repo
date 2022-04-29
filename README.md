@@ -13,7 +13,7 @@
 
 ## General Overview
 
-The Memories Blog app is a platform that allows ppl to share, discuss, like and comment on each others memories and posts of places they have travled to and seen around the world.
+The Memories Blog app is a platform that allows ppl to share, discuss, like and comment on each others memories and posts of places they have traveled to and seen around the world.
 
 
 
