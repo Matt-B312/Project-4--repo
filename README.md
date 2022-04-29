@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://mattsmemoriesapp.herokuapp.com/posts">
+  <a href="https://mattsmemoriesapp.herokuapp.com">
 
 ![3d](https://wallpapertag.com/wallpaper/full/8/7/e/221119-travel-background-1920x1080-laptop.jpg)
 </a>
