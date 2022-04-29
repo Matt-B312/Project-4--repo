@@ -13,8 +13,7 @@
 
 ## General Overview
 
-3D Models Site is a 3D model sharing platform that allows creators to easily showcase and share their 3d models with the rest of the users on the site.
-For now we are focusing on GLB files but also plan to have a 3d printing (STL) section.
+The Memories Blog app is a platform that allows ppl to share, discuss, like and comment on each others memories and posts of places they have travled to and seen around the world.
 
 
 
