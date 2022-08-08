@@ -58,4 +58,4 @@ In this project I got to build and demostrate a full MERN stack app which took m
 ## Getting Started
 
 
-To start simply click the link (https://mattsmemoriesapp.herokuapp.com/auth) and begin browsing the pages.
+To start simply click the link (https://mattsmemoriesapp.herokuapp.com/) and begin browsing the pages.
